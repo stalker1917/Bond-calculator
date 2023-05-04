@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.192,D:\Мои программы\Delphi\Расчёт амортизации\Amort_pre1\Unit1.dfm=C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,=C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,D:\Мои программы\Delphi\Расчёт амортизации\Amort_pre1\Project1.dproj=C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,D:\Мои программы\Delphi\Расчёт амортизации\Amort_pre1\Unit1.pas=C:\Users\Andrey\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
